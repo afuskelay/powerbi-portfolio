@@ -27,4 +27,3 @@ This interactive dashboard consists of three report pages:
 ## 🛠 Tools Used:
 Power BI Desktop| In-built Visuals | Key Influencer Visual | Slicers | Filters | Drill-downs
 
-📂 [Project Files](./project-01-market-research-dashboard/)
