@@ -20,7 +20,7 @@ This interactive dashboard consists of three report pages:
 ## 📁 Files Included:
 - `Market_Research_Dashboard.pbix` – Power BI report file  
 - `Market_Research.pdf` – Exported report for quick viewing  
-- `dashboard-preview.png` – Snapshot of dashboard visuals
+- `Campaign_Performance.png` – Snapshot of dashboard visuals
 - `source-data/Market_Research_Dataset.csv` – Sample dataset used for dashboard development
 - `source-data/market_Research_Data_Dictionary.csv` – Sample dataset used for dashboard development
 
