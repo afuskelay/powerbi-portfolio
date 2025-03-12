@@ -27,3 +27,12 @@ This interactive dashboard consists of three report pages:
 ## 🛠 Tools Used:
 Power BI Desktop| In-built Visuals | Key Influencer Visual | Slicers | Filters | Drill-downs
 
+## 📸 Dashboard Preview
+
+Here’s a snapshot of the dashboard I built using Power BI:
+
+![Dashboard Screenshot](Campaign_Performance.png)
+
+The dashboard covers campaign performance, customer composition, and purchase behavior analysis.
+
+
