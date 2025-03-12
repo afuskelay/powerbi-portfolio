@@ -2,19 +2,27 @@
 
 This Power BI project is built using a sample dataset (~2300 records) to simulate a marketing analysis scenario for a market research firm.
 
+## 📸 Dashboard Preview
+
+Here’s a snapshot of the dashboard I built using Power BI:
+
+![Dashboard Screenshot](Campaign_Performance.png)
+
+The dashboard covers campaign performance, customer composition, and purchase behaviour analysis.
+
 ## 🧠 Business Scenario:
 You're a BI Developer hired by a firm collaborating with a retail client in the food and beverage industry. The client is still exploring their customer base and wants to gain insights on:
 
 1. How recent marketing campaigns are performing  
 2. How products are performing  
 3. Who their customers are  
-4. What drives customer purchasing behavior
+4. What drives customer purchasing behaviour
 
 ## 🔍 What I Built:
 This interactive dashboard consists of three report pages:
 
 1. **Campaign Performance** – Which campaigns had the highest sales, most customer engagement, and platform trends  
-2. **Buyer Composition** – Insights into customer demographics like age, education, income, and purchase behavior  
+2. **Buyer Composition** – Insights into customer demographics like age, education, income, and purchase behaviour  
 3. **Purchase Drivers** – Key Influencers visual used to explore factors influencing purchases and total sales
 
 ## 📁 Files Included:
@@ -27,12 +35,6 @@ This interactive dashboard consists of three report pages:
 ## 🛠 Tools Used:
 Power BI Desktop| In-built Visuals | Key Influencer Visual | Slicers | Filters | Drill-downs
 
-## 📸 Dashboard Preview
 
-Here’s a snapshot of the dashboard I built using Power BI:
-
-![Dashboard Screenshot](Campaign_Performance.png)
-
-The dashboard covers campaign performance, customer composition, and purchase behavior analysis.
 
 
